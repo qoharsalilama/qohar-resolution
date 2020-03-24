@@ -1,0 +1,2 @@
+# qohar-resolution
+repository awal
